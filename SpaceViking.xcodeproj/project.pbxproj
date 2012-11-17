@@ -170,6 +170,8 @@
 		C19B15081657CA4300AB4A29 /* jumpUp.png in Resources */ = {isa = PBXBuildFile; fileRef = C19B14E41657CA4300AB4A29 /* jumpUp.png */; };
 		C19B15091657CA4300AB4A29 /* sv_anim_1.png in Resources */ = {isa = PBXBuildFile; fileRef = C19B14E51657CA4300AB4A29 /* sv_anim_1.png */; };
 		C19B150C1657CBF200AB4A29 /* BackgroundLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B150B1657CBF200AB4A29 /* BackgroundLayer.m */; };
+		C19B150F1657D22A00AB4A29 /* GameplayLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B150E1657D22A00AB4A29 /* GameplayLayer.m */; };
+		C19B15121657D5BF00AB4A29 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B15111657D5BF00AB4A29 /* GameScene.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -473,6 +475,10 @@
 		C19B14E51657CA4300AB4A29 /* sv_anim_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sv_anim_1.png; sourceTree = "<group>"; };
 		C19B150A1657CBF200AB4A29 /* BackgroundLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BackgroundLayer.h; sourceTree = "<group>"; };
 		C19B150B1657CBF200AB4A29 /* BackgroundLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BackgroundLayer.m; sourceTree = "<group>"; };
+		C19B150D1657D22A00AB4A29 /* GameplayLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameplayLayer.h; sourceTree = "<group>"; };
+		C19B150E1657D22A00AB4A29 /* GameplayLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameplayLayer.m; sourceTree = "<group>"; };
+		C19B15101657D5BF00AB4A29 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
+		C19B15111657D5BF00AB4A29 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -543,6 +549,10 @@
 				C19B14A71657C3AB00AB4A29 /* Supporting Files */,
 				C19B150A1657CBF200AB4A29 /* BackgroundLayer.h */,
 				C19B150B1657CBF200AB4A29 /* BackgroundLayer.m */,
+				C19B150D1657D22A00AB4A29 /* GameplayLayer.h */,
+				C19B150E1657D22A00AB4A29 /* GameplayLayer.m */,
+				C19B15101657D5BF00AB4A29 /* GameScene.h */,
+				C19B15111657D5BF00AB4A29 /* GameScene.m */,
 			);
 			path = SpaceViking;
 			sourceTree = "<group>";
@@ -1231,6 +1241,8 @@
 				C19B14B01657C3AB00AB4A29 /* HelloWorldLayer.m in Sources */,
 				C19B14B31657C3AB00AB4A29 /* IntroLayer.m in Sources */,
 				C19B150C1657CBF200AB4A29 /* BackgroundLayer.m in Sources */,
+				C19B150F1657D22A00AB4A29 /* GameplayLayer.m in Sources */,
+				C19B15121657D5BF00AB4A29 /* GameScene.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
