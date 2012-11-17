@@ -172,6 +172,13 @@
 		C19B150C1657CBF200AB4A29 /* BackgroundLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B150B1657CBF200AB4A29 /* BackgroundLayer.m */; };
 		C19B150F1657D22A00AB4A29 /* GameplayLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B150E1657D22A00AB4A29 /* GameplayLayer.m */; };
 		C19B15121657D5BF00AB4A29 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B15111657D5BF00AB4A29 /* GameScene.m */; };
+		C19B15251657E5B800AB4A29 /* ColoredCircleSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B15191657E5B800AB4A29 /* ColoredCircleSprite.m */; };
+		C19B15261657E5B800AB4A29 /* ColoredSquareSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B151B1657E5B800AB4A29 /* ColoredSquareSprite.m */; };
+		C19B15271657E5B800AB4A29 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = C19B151C1657E5B800AB4A29 /* LICENSE */; };
+		C19B15281657E5B800AB4A29 /* SneakyButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B151E1657E5B800AB4A29 /* SneakyButton.m */; };
+		C19B15291657E5B800AB4A29 /* SneakyButtonSkinnedBase.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B15201657E5B800AB4A29 /* SneakyButtonSkinnedBase.m */; };
+		C19B152A1657E5B800AB4A29 /* SneakyJoystick.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B15221657E5B800AB4A29 /* SneakyJoystick.m */; };
+		C19B152B1657E5B800AB4A29 /* SneakyJoystickSkinnedBase.m in Sources */ = {isa = PBXBuildFile; fileRef = C19B15241657E5B800AB4A29 /* SneakyJoystickSkinnedBase.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -479,6 +486,19 @@
 		C19B150E1657D22A00AB4A29 /* GameplayLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameplayLayer.m; sourceTree = "<group>"; };
 		C19B15101657D5BF00AB4A29 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
 		C19B15111657D5BF00AB4A29 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
+		C19B15181657E5B800AB4A29 /* ColoredCircleSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColoredCircleSprite.h; sourceTree = "<group>"; };
+		C19B15191657E5B800AB4A29 /* ColoredCircleSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColoredCircleSprite.m; sourceTree = "<group>"; };
+		C19B151A1657E5B800AB4A29 /* ColoredSquareSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColoredSquareSprite.h; sourceTree = "<group>"; };
+		C19B151B1657E5B800AB4A29 /* ColoredSquareSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColoredSquareSprite.m; sourceTree = "<group>"; };
+		C19B151C1657E5B800AB4A29 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C19B151D1657E5B800AB4A29 /* SneakyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyButton.h; sourceTree = "<group>"; };
+		C19B151E1657E5B800AB4A29 /* SneakyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyButton.m; sourceTree = "<group>"; };
+		C19B151F1657E5B800AB4A29 /* SneakyButtonSkinnedBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyButtonSkinnedBase.h; sourceTree = "<group>"; };
+		C19B15201657E5B800AB4A29 /* SneakyButtonSkinnedBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyButtonSkinnedBase.m; sourceTree = "<group>"; };
+		C19B15211657E5B800AB4A29 /* SneakyJoystick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyJoystick.h; sourceTree = "<group>"; };
+		C19B15221657E5B800AB4A29 /* SneakyJoystick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystick.m; sourceTree = "<group>"; };
+		C19B15231657E5B800AB4A29 /* SneakyJoystickSkinnedBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SneakyJoystickSkinnedBase.h; sourceTree = "<group>"; };
+		C19B15241657E5B800AB4A29 /* SneakyJoystickSkinnedBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SneakyJoystickSkinnedBase.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -504,6 +524,7 @@
 		C19B13121657C3A900AB4A29 = {
 			isa = PBXGroup;
 			children = (
+				C19B15171657E5B800AB4A29 /* JoystickClasses */,
 				C19B13331657C3A900AB4A29 /* SpaceViking */,
 				C19B13201657C3A900AB4A29 /* Frameworks */,
 				C19B131E1657C3A900AB4A29 /* Products */,
@@ -1027,6 +1048,26 @@
 			path = Joystick;
 			sourceTree = "<group>";
 		};
+		C19B15171657E5B800AB4A29 /* JoystickClasses */ = {
+			isa = PBXGroup;
+			children = (
+				C19B15181657E5B800AB4A29 /* ColoredCircleSprite.h */,
+				C19B15191657E5B800AB4A29 /* ColoredCircleSprite.m */,
+				C19B151A1657E5B800AB4A29 /* ColoredSquareSprite.h */,
+				C19B151B1657E5B800AB4A29 /* ColoredSquareSprite.m */,
+				C19B151C1657E5B800AB4A29 /* LICENSE */,
+				C19B151D1657E5B800AB4A29 /* SneakyButton.h */,
+				C19B151E1657E5B800AB4A29 /* SneakyButton.m */,
+				C19B151F1657E5B800AB4A29 /* SneakyButtonSkinnedBase.h */,
+				C19B15201657E5B800AB4A29 /* SneakyButtonSkinnedBase.m */,
+				C19B15211657E5B800AB4A29 /* SneakyJoystick.h */,
+				C19B15221657E5B800AB4A29 /* SneakyJoystick.m */,
+				C19B15231657E5B800AB4A29 /* SneakyJoystickSkinnedBase.h */,
+				C19B15241657E5B800AB4A29 /* SneakyJoystickSkinnedBase.m */,
+			);
+			path = JoystickClasses;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1126,6 +1167,7 @@
 				C19B15071657CA4300AB4A29 /* jumpUp-hd.png in Resources */,
 				C19B15081657CA4300AB4A29 /* jumpUp.png in Resources */,
 				C19B15091657CA4300AB4A29 /* sv_anim_1.png in Resources */,
+				C19B15271657E5B800AB4A29 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1243,6 +1285,12 @@
 				C19B150C1657CBF200AB4A29 /* BackgroundLayer.m in Sources */,
 				C19B150F1657D22A00AB4A29 /* GameplayLayer.m in Sources */,
 				C19B15121657D5BF00AB4A29 /* GameScene.m in Sources */,
+				C19B15251657E5B800AB4A29 /* ColoredCircleSprite.m in Sources */,
+				C19B15261657E5B800AB4A29 /* ColoredSquareSprite.m in Sources */,
+				C19B15281657E5B800AB4A29 /* SneakyButton.m in Sources */,
+				C19B15291657E5B800AB4A29 /* SneakyButtonSkinnedBase.m in Sources */,
+				C19B152A1657E5B800AB4A29 /* SneakyJoystick.m in Sources */,
+				C19B152B1657E5B800AB4A29 /* SneakyJoystickSkinnedBase.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1346,6 +1394,7 @@
 				C19B14B81657C3AB00AB4A29 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
